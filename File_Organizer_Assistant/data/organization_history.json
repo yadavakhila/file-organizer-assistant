@@ -1,0 +1,15 @@
+{
+  "history": [
+    {
+      "operation_id": "OP-SAMPLE01",
+      "timestamp": "2026-11-25 09:00:00",
+      "target_directory": "SampleWorkspace",
+      "total_attempted": 35,
+      "organized_count": 29,
+      "skipped_count": 4,
+      "failed_count": 2,
+      "movements": [],
+      "undone": true
+    }
+  ]
+}

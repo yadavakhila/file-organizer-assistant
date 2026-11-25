@@ -1,0 +1,17 @@
+2026-11-25 09:59:19 | ERROR    | json_manager | Corrupted or unreadable records JSON (C:\Users\sanja\AppData\Local\Temp\tmp9czaxew3\records.json): Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2026-11-25 09:59:19 | ERROR    | json_manager | Corrupted settings JSON (C:\Users\sanja\AppData\Local\Temp\tmp9czaxew3\settings.json): Expecting value: line 1 column 2 (char 1)
+2026-11-25 09:59:19 | INFO     | scanner | Scanned 'C:\Users\sanja\AppData\Local\Temp\tmp1uev327m': 2 files, 0 skipped, 0 errors.
+2026-11-25 09:59:19 | INFO     | preview | Generated preview for 'C:\Users\sanja\AppData\Local\Temp\tmp1uev327m': total=2, ready=2, conflicts=0, skipped=0
+2026-11-25 09:59:19 | INFO     | organizer | Organization OP-CBAC5437 complete for 'C:\Users\sanja\AppData\Local\Temp\tmp1uev327m': organized=2, skipped=0, failed=0
+2026-11-25 09:59:19 | INFO     | scanner | Scanned 'C:\Users\sanja\AppData\Local\Temp\tmp1uev327m': 2 files, 0 skipped, 0 errors.
+2026-11-25 09:59:19 | INFO     | preview | Generated preview for 'C:\Users\sanja\AppData\Local\Temp\tmp1uev327m': total=2, ready=0, conflicts=0, skipped=2
+2026-11-25 09:59:19 | INFO     | organizer | Organization OP-34A20FE6 complete for 'C:\Users\sanja\AppData\Local\Temp\tmp1uev327m': organized=0, skipped=2, failed=0
+2026-11-25 09:59:19 | INFO     | organizer | Undo completed: restored=2, skipped=0, failed=0
+2026-11-25 09:59:19 | INFO     | scanner | Scanned 'C:\Users\sanja\AppData\Local\Temp\tmp9amoiysn': 1 files, 0 skipped, 0 errors.
+2026-11-25 09:59:19 | INFO     | preview | Generated preview for 'C:\Users\sanja\AppData\Local\Temp\tmp9amoiysn': total=1, ready=1, conflicts=0, skipped=0
+2026-11-25 09:59:19 | INFO     | scanner | Scanned 'C:\Users\sanja\AppData\Local\Temp\tmp9b8ctir_': 2 files, 0 skipped, 0 errors.
+2026-11-25 09:59:19 | INFO     | preview | Generated preview for 'C:\Users\sanja\AppData\Local\Temp\tmp9b8ctir_': total=2, ready=1, conflicts=1, skipped=1
+2026-11-25 09:59:19 | INFO     | scanner | Scanned 'C:\Users\sanja\AppData\Local\Temp\tmpvfxuzdlb': 0 files, 0 skipped, 0 errors.
+2026-11-25 09:59:19 | WARNING  | scanner | Scan rejected for 'non_existent_folder_abc_123': Directory does not exist: C:\Users\sanja\Downloads\python\File_Organizer_Assistant\non_existent_folder_abc_123
+2026-11-25 09:59:19 | INFO     | scanner | Scanned 'C:\Users\sanja\AppData\Local\Temp\tmp0b7vgm6s': 150 files, 1 skipped, 0 errors.
+2026-11-25 09:59:19 | INFO     | scanner | Scanned 'C:\Users\sanja\AppData\Local\Temp\tmp0b7vgm6s': 152 files, 0 skipped, 0 errors.

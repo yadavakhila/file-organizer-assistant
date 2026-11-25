@@ -1,0 +1,9 @@
+{
+  "include_subfolders": false,
+  "include_hidden_files": false,
+  "conflict_policy": "skip",
+  "check_sha256_duplicates": true,
+  "theme": "dark",
+  "custom_categories": {},
+  "category_folder_names": {}
+}

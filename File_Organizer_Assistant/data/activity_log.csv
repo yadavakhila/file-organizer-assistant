@@ -1,0 +1,7 @@
+timestamp,action,file_name,category,status
+2026-11-25 09:00:00,SCAN,project_report.pdf,Documents,Success
+2026-11-25 09:00:05,MOVE,project_report.pdf,Documents,Success
+2026-11-25 09:00:06,MOVE,hero_banner.png,Images,Success
+2026-11-25 09:00:07,MOVE,main_app.py,Programming,Success
+2026-11-25 09:00:08,SKIPPED,duplicate_notes.txt,Documents,Skipped
+2026-11-25 09:00:09,FAILED,locked_archive.zip,Archives,Failed
